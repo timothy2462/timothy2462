@@ -7,7 +7,7 @@
 ---
 
 ### 🔥 **What I Do**  
-✅ **Web & Mobile Development:** React, Next.js, Python, Node.js  
+✅ **Web & Mobile Development:** React, Next.js, React native, flutter, Python, Node.js  
 ✅ **AI/ML Experiments:** Building LLM-powered tools and automation  
 ✅ **SEO Optimization:** Drive organic traffic for startups and SaaS  
 ✅ **Database & DevOps:** PostgreSQL, MongoDB, Docker, Vercel 
